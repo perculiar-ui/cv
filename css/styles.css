@@ -1,0 +1,143 @@
+body{
+	margin: 0;
+	text-align: center;
+}
+h2,h3{
+	font-size: 50px;
+	font-family: 'sofia';
+	color: #21564b;
+	text-align: center;
+}
+.top{
+	font-size: 50px;
+	font-family: 'sofia';
+	color: #21564b;
+
+}
+
+div{
+	background-color: #E4F9F5;
+	width: 100em;
+	
+}
+.middle-container{
+	background-color: white;
+	margin: 0;
+	
+}
+.bottom-container{
+	background-color: white;
+	height: 100px;
+
+}
+.web-links{
+	position: relative;
+	top: 40px;
+}
+
+	
+.mountain{
+	height: 300px;
+	width: 650px;
+	margin: 0px;
+	
+}
+.bottom-cloud{
+	position: absolute;
+	right: 100px;
+	margin: 0px;
+	height: 240px;
+	width: 548.05px;
+}
+.top-cloud{
+	position: relative;
+	left: 200px;
+	margin: 0px;
+	height: 240px;
+	width: 548.05px;
+}
+.image-middle{
+	width: 200px;
+	height: 165px;
+	
+}
+hr{
+	border-color: grey;
+	border-style: dotted none none;
+	border-width: 5px;
+	width: 10%;
+}
+.send-image{
+	height: 150px;
+	width: 150px;
+}
+.photoshop {
+	height: 260px;
+	width: 320px;
+	float: left;
+	
+}
+p{
+	font-size: 25px;
+}
+.freelance{
+	font-size: 30px;
+}
+.code{
+	width: 270px;
+	height: 300px;
+	position: relative;
+	left: 860px;
+}
+
+.skill{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+.photoshop{
+	position: inherit;
+	right: 20px;
+}
+.classname{
+	background-color:#68b0ab;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	border:1px solid #8fc0a9;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:19px;
+	font-weight:bold;
+	font-style:normal;
+height:59px;
+	line-height:59px;
+width:138px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}
+.classname:hover {
+	background-color:#84a9ac;
+}
+.classname:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+	position: relative;
+	top: 35px;
+}
+
